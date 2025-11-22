@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LaTrongNghia
-- 👀 I am a senior in Nam Can Tho university
+- 👀 I am a Computer Science graduate from Nam Can Tho University
 - 🌱 I’m currently learning Web Developer and AI
 - 😄 Pronouns: English
 
